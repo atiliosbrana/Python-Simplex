@@ -1,5 +1,5 @@
 # Python-Simplex
-Implementations of the Simplex Method for the Diet Problem.
+Implementations of the Simplex Method for the Diet Problem as part of the Linear Optimization class of the MS Computer Science program of UFSCAR - Sorocaba.
 
 1) First I implement it using Scipy's linprog optimization. It is important to use the negative of the matrix in this case, since all the constraints are of the "greater than or equal to" type.
 
