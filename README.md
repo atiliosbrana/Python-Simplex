@@ -2,4 +2,4 @@
 Implementations of the Simplex Method for the Diet Problem
 
 
-![alt text](https://github.com/atiliosbrana/Python-Simplex/blob/master/Modelos%2Bde%2Bprogramac%CC%A7a%CC%83o%2Blinear.jpg)
+![alt text](https://github.com/atiliosbrana/Python-Simplex/blob/master/problem.png)
