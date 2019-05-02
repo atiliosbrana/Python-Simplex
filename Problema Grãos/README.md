@@ -5,4 +5,4 @@ Implementations of the Simplex Method for the Diet Problem as part of the Linear
 
 2) In the second implementation, I use the library PulP. To download it, use !pip install pulp in your compiler.
 
-![alt text](https://github.com/atiliosbrana/Python-Simplex/Problema Grãos/blob/master/problem.png)
+![alt text](https://github.com/atiliosbrana/Python-Simplex/blob/master/Problema%20Gr%C3%A3os/problem.png)
